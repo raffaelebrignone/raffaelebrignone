@@ -1,4 +1,5 @@
-Hi, I'm @raffaelebrignone.
+Hi, I'm Raffaele.
+
 I'm an italian software engineer who's been living in London since 2014.
 I've mainly worked as a game developer so far, but I would love to expand my knowledge about lowe levent, fast and efficient coding.
 My favourite programming language (and so far the one I used the most) is C++.
